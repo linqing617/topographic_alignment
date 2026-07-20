@@ -1,0 +1,401 @@
+﻿num,hemi,Network,Region,label,Index,id
+1,left,Visual,lh_Visual,lh_7Networks_LH_Vis_1,1,1
+2,left,Visual,lh_Visual,lh_7Networks_LH_Vis_2,1,1
+3,left,Visual,lh_Visual,lh_7Networks_LH_Vis_3,1,1
+4,left,Visual,lh_Visual,lh_7Networks_LH_Vis_4,1,1
+5,left,Visual,lh_Visual,lh_7Networks_LH_Vis_5,1,1
+6,left,Visual,lh_Visual,lh_7Networks_LH_Vis_6,1,1
+7,left,Visual,lh_Visual,lh_7Networks_LH_Vis_7,1,1
+8,left,Visual,lh_Visual,lh_7Networks_LH_Vis_8,1,1
+9,left,Visual,lh_Visual,lh_7Networks_LH_Vis_9,1,1
+10,left,Visual,lh_Visual,lh_7Networks_LH_Vis_10,1,1
+11,left,Visual,lh_Visual,lh_7Networks_LH_Vis_11,1,1
+12,left,Visual,lh_Visual,lh_7Networks_LH_Vis_12,1,1
+13,left,Visual,lh_Visual,lh_7Networks_LH_Vis_13,1,1
+14,left,Visual,lh_Visual,lh_7Networks_LH_Vis_14,1,1
+15,left,Visual,lh_Visual,lh_7Networks_LH_Vis_15,1,1
+16,left,Visual,lh_Visual,lh_7Networks_LH_Vis_16,1,1
+17,left,Visual,lh_Visual,lh_7Networks_LH_Vis_17,1,1
+18,left,Visual,lh_Visual,lh_7Networks_LH_Vis_18,1,1
+19,left,Visual,lh_Visual,lh_7Networks_LH_Vis_19,1,1
+20,left,Visual,lh_Visual,lh_7Networks_LH_Vis_20,1,1
+21,left,Visual,lh_Visual,lh_7Networks_LH_Vis_21,1,1
+22,left,Visual,lh_Visual,lh_7Networks_LH_Vis_22,1,1
+23,left,Visual,lh_Visual,lh_7Networks_LH_Vis_23,1,1
+24,left,Visual,lh_Visual,lh_7Networks_LH_Vis_24,1,1
+25,left,Visual,lh_Visual,lh_7Networks_LH_Vis_25,1,1
+26,left,Visual,lh_Visual,lh_7Networks_LH_Vis_26,1,1
+27,left,Visual,lh_Visual,lh_7Networks_LH_Vis_27,1,1
+28,left,Visual,lh_Visual,lh_7Networks_LH_Vis_28,1,1
+29,left,Visual,lh_Visual,lh_7Networks_LH_Vis_29,1,1
+30,left,Visual,lh_Visual,lh_7Networks_LH_Vis_30,1,1
+31,left,Visual,lh_Visual,lh_7Networks_LH_Vis_31,1,1
+32,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_1,2,2
+33,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_2,2,2
+34,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_3,2,2
+35,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_4,2,2
+36,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_5,2,2
+37,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_6,2,2
+38,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_7,2,2
+39,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_8,2,2
+40,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_9,2,2
+41,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_10,2,2
+42,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_11,2,2
+43,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_12,2,2
+44,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_13,2,2
+45,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_14,2,2
+46,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_15,2,2
+47,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_16,2,2
+48,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_17,2,2
+49,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_18,2,2
+50,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_19,2,2
+51,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_20,2,2
+52,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_21,2,2
+53,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_22,2,2
+54,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_23,2,2
+55,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_24,2,2
+56,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_25,2,2
+57,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_26,2,2
+58,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_27,2,2
+59,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_28,2,2
+60,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_29,2,2
+61,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_30,2,2
+62,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_31,2,2
+63,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_32,2,2
+64,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_33,2,2
+65,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_34,2,2
+66,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_35,2,2
+67,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_36,2,2
+68,left,Sensorimotor,lh_Sensorimotor,lh_7Networks_LH_SomMot_37,2,2
+69,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_1,3,3
+70,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_2,3,3
+71,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_3,3,3
+72,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_4,3,3
+73,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_5,3,3
+74,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_6,3,3
+75,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_7,3,3
+76,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_8,3,3
+77,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_9,3,3
+78,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_10,3,3
+79,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_11,3,3
+80,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_12,3,3
+81,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_13,3,3
+82,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_14,3,3
+83,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_15,3,3
+84,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_16,3,3
+85,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_Post_17,3,3
+86,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_FEF_1,3,3
+87,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_FEF_2,3,3
+88,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_FEF_3,3,3
+89,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_FEF_4,3,3
+90,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_PrCv_1,3,3
+91,left,DorsAttention,lh_DorsAttention,lh_7Networks_LH_DorsAttn_PrCv_2,3,3
+92,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_ParOper_1,4,4
+93,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_ParOper_2,4,4
+94,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_ParOper_3,4,4
+95,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_ParOper_4,4,4
+96,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_TempOcc_1,4,4
+97,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_FrOperIns_1,4,4
+98,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_FrOperIns_2,4,4
+99,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_FrOperIns_3,4,4
+100,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_FrOperIns_4,4,4
+101,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_FrOperIns_5,4,4
+102,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_FrOperIns_6,4,4
+103,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_FrOperIns_7,4,4
+104,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_FrOperIns_8,4,4
+105,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_FrOperIns_9,4,4
+106,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_PFCl_1,4,4
+107,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_Med_1,4,4
+108,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_Med_2,4,4
+109,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_Med_3,4,4
+110,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_Med_4,4,4
+111,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_Med_5,4,4
+112,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_Med_6,4,4
+113,left,VentralAttention,lh_Salience / Ventral attention,lh_7Networks_LH_SalVentAttn_Med_7,4,4
+114,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_OFC_1,5,5
+115,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_OFC_2,5,5
+116,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_OFC_3,5,5
+117,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_OFC_4,5,5
+118,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_OFC_5,5,5
+119,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_TempPole_1,5,5
+120,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_TempPole_2,5,5
+121,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_TempPole_3,5,5
+122,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_TempPole_4,5,5
+123,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_TempPole_5,5,5
+124,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_TempPole_6,5,5
+125,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_TempPole_7,5,5
+126,left,Limbic,lh_Limbic,lh_7Networks_LH_Limbic_TempPole_8,5,5
+127,left,Control,lh_Control,lh_7Networks_LH_Cont_Par_1,6,6
+128,left,Control,lh_Control,lh_7Networks_LH_Cont_Par_2,6,6
+129,left,Control,lh_Control,lh_7Networks_LH_Cont_Par_3,6,6
+130,left,Control,lh_Control,lh_7Networks_LH_Cont_Par_4,6,6
+131,left,Control,lh_Control,lh_7Networks_LH_Cont_Par_5,6,6
+132,left,Control,lh_Control,lh_7Networks_LH_Cont_Par_6,6,6
+133,left,Control,lh_Control,lh_7Networks_LH_Cont_Temp_1,6,6
+134,left,Control,lh_Control,lh_7Networks_LH_Cont_OFC_1,6,6
+135,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCl_1,6,6
+136,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCl_2,6,6
+137,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCl_3,6,6
+138,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCl_4,6,6
+139,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCl_5,6,6
+140,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCl_6,6,6
+141,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCl_7,6,6
+142,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCl_8,6,6
+143,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCv_1,6,6
+144,left,Control,lh_Control,lh_7Networks_LH_Cont_pCun_1,6,6
+145,left,Control,lh_Control,lh_7Networks_LH_Cont_pCun_2,6,6
+146,left,Control,lh_Control,lh_7Networks_LH_Cont_Cing_1,6,6
+147,left,Control,lh_Control,lh_7Networks_LH_Cont_Cing_2,6,6
+148,left,Control,lh_Control,lh_7Networks_LH_Cont_PFCmp_1,6,6
+149,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_1,7,7
+150,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_2,7,7
+151,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_3,7,7
+152,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_4,7,7
+153,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_5,7,7
+154,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_6,7,7
+155,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_7,7,7
+156,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_8,7,7
+157,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_9,7,7
+158,left,Default,lh_Default,lh_7Networks_LH_Default_Temp_10,7,7
+159,left,Default,lh_Default,lh_7Networks_LH_Default_Par_1,7,7
+160,left,Default,lh_Default,lh_7Networks_LH_Default_Par_2,7,7
+161,left,Default,lh_Default,lh_7Networks_LH_Default_Par_3,7,7
+162,left,Default,lh_Default,lh_7Networks_LH_Default_Par_4,7,7
+163,left,Default,lh_Default,lh_7Networks_LH_Default_Par_5,7,7
+164,left,Default,lh_Default,lh_7Networks_LH_Default_Par_6,7,7
+165,left,Default,lh_Default,lh_7Networks_LH_Default_Par_7,7,7
+166,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_1,7,7
+167,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_2,7,7
+168,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_3,7,7
+169,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_4,7,7
+170,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_5,7,7
+171,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_6,7,7
+172,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_7,7,7
+173,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_8,7,7
+174,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_9,7,7
+175,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_10,7,7
+176,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_11,7,7
+177,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_12,7,7
+178,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_13,7,7
+179,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_14,7,7
+180,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_15,7,7
+181,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_16,7,7
+182,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_17,7,7
+183,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_18,7,7
+184,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_19,7,7
+185,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_20,7,7
+186,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_21,7,7
+187,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_22,7,7
+188,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_23,7,7
+189,left,Default,lh_Default,lh_7Networks_LH_Default_PFC_24,7,7
+190,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_1,7,7
+191,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_2,7,7
+192,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_3,7,7
+193,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_4,7,7
+194,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_5,7,7
+195,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_6,7,7
+196,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_7,7,7
+197,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_8,7,7
+198,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_9,7,7
+199,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_10,7,7
+200,left,Default,lh_Default,lh_7Networks_LH_Default_pCunPCC_11,7,7
+201,right,Visual,rh_Visual,rh_7Networks_RH_Vis_1,1,8
+202,right,Visual,rh_Visual,rh_7Networks_RH_Vis_2,1,8
+203,right,Visual,rh_Visual,rh_7Networks_RH_Vis_3,1,8
+204,right,Visual,rh_Visual,rh_7Networks_RH_Vis_4,1,8
+205,right,Visual,rh_Visual,rh_7Networks_RH_Vis_5,1,8
+206,right,Visual,rh_Visual,rh_7Networks_RH_Vis_6,1,8
+207,right,Visual,rh_Visual,rh_7Networks_RH_Vis_7,1,8
+208,right,Visual,rh_Visual,rh_7Networks_RH_Vis_8,1,8
+209,right,Visual,rh_Visual,rh_7Networks_RH_Vis_9,1,8
+210,right,Visual,rh_Visual,rh_7Networks_RH_Vis_10,1,8
+211,right,Visual,rh_Visual,rh_7Networks_RH_Vis_11,1,8
+212,right,Visual,rh_Visual,rh_7Networks_RH_Vis_12,1,8
+213,right,Visual,rh_Visual,rh_7Networks_RH_Vis_13,1,8
+214,right,Visual,rh_Visual,rh_7Networks_RH_Vis_14,1,8
+215,right,Visual,rh_Visual,rh_7Networks_RH_Vis_15,1,8
+216,right,Visual,rh_Visual,rh_7Networks_RH_Vis_16,1,8
+217,right,Visual,rh_Visual,rh_7Networks_RH_Vis_17,1,8
+218,right,Visual,rh_Visual,rh_7Networks_RH_Vis_18,1,8
+219,right,Visual,rh_Visual,rh_7Networks_RH_Vis_19,1,8
+220,right,Visual,rh_Visual,rh_7Networks_RH_Vis_20,1,8
+221,right,Visual,rh_Visual,rh_7Networks_RH_Vis_21,1,8
+222,right,Visual,rh_Visual,rh_7Networks_RH_Vis_22,1,8
+223,right,Visual,rh_Visual,rh_7Networks_RH_Vis_23,1,8
+224,right,Visual,rh_Visual,rh_7Networks_RH_Vis_24,1,8
+225,right,Visual,rh_Visual,rh_7Networks_RH_Vis_25,1,8
+226,right,Visual,rh_Visual,rh_7Networks_RH_Vis_26,1,8
+227,right,Visual,rh_Visual,rh_7Networks_RH_Vis_27,1,8
+228,right,Visual,rh_Visual,rh_7Networks_RH_Vis_28,1,8
+229,right,Visual,rh_Visual,rh_7Networks_RH_Vis_29,1,8
+230,right,Visual,rh_Visual,rh_7Networks_RH_Vis_30,1,8
+231,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_1,2,9
+232,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_2,2,9
+233,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_3,2,9
+234,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_4,2,9
+235,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_5,2,9
+236,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_6,2,9
+237,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_7,2,9
+238,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_8,2,9
+239,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_9,2,9
+240,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_10,2,9
+241,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_11,2,9
+242,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_12,2,9
+243,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_13,2,9
+244,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_14,2,9
+245,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_15,2,9
+246,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_16,2,9
+247,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_17,2,9
+248,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_18,2,9
+249,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_19,2,9
+250,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_20,2,9
+251,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_21,2,9
+252,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_22,2,9
+253,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_23,2,9
+254,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_24,2,9
+255,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_25,2,9
+256,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_26,2,9
+257,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_27,2,9
+258,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_28,2,9
+259,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_29,2,9
+260,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_30,2,9
+261,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_31,2,9
+262,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_32,2,9
+263,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_33,2,9
+264,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_34,2,9
+265,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_35,2,9
+266,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_36,2,9
+267,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_37,2,9
+268,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_38,2,9
+269,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_39,2,9
+270,right,Sensorimotor,rh_Sensorimotor,rh_7Networks_RH_SomMot_40,2,9
+271,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_1,3,10
+272,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_2,3,10
+273,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_3,3,10
+274,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_4,3,10
+275,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_5,3,10
+276,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_6,3,10
+277,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_7,3,10
+278,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_8,3,10
+279,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_9,3,10
+280,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_10,3,10
+281,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_11,3,10
+282,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_12,3,10
+283,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_13,3,10
+284,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_14,3,10
+285,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_15,3,10
+286,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_16,3,10
+287,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_17,3,10
+288,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_18,3,10
+289,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_Post_19,3,10
+290,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_FEF_1,3,10
+291,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_FEF_2,3,10
+292,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_FEF_3,3,10
+293,right,DorsAttention,rh_DorsAttention,rh_7Networks_RH_DorsAttn_PrCv_1,3,10
+294,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_TempOccPar_1,4,11
+295,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_TempOccPar_2,4,11
+296,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_TempOccPar_3,4,11
+297,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_TempOccPar_4,4,11
+298,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_TempOccPar_5,4,11
+299,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_TempOccPar_6,4,11
+300,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_TempOccPar_7,4,11
+301,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_PrC_1,4,11
+302,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_FrOperIns_1,4,11
+303,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_FrOperIns_2,4,11
+304,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_FrOperIns_3,4,11
+305,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_FrOperIns_4,4,11
+306,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_FrOperIns_5,4,11
+307,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_FrOperIns_6,4,11
+308,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_FrOperIns_7,4,11
+309,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_FrOperIns_8,4,11
+310,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_PFCl_1,4,11
+311,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_Med_1,4,11
+312,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_Med_2,4,11
+313,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_Med_3,4,11
+314,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_Med_4,4,11
+315,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_Med_5,4,11
+316,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_Med_6,4,11
+317,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_Med_7,4,11
+318,right,VentralAttention,rh_Salience / Ventral attention,rh_7Networks_RH_SalVentAttn_Med_8,4,11
+319,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_OFC_1,5,12
+320,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_OFC_2,5,12
+321,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_OFC_3,5,12
+322,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_OFC_4,5,12
+323,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_OFC_5,5,12
+324,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_OFC_6,5,12
+325,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_TempPole_1,5,12
+326,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_TempPole_2,5,12
+327,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_TempPole_3,5,12
+328,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_TempPole_4,5,12
+329,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_TempPole_5,5,12
+330,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_TempPole_6,5,12
+331,right,Limbic,rh_Limbic,rh_7Networks_RH_Limbic_TempPole_7,5,12
+332,right,Control,rh_Control,rh_7Networks_RH_Cont_Par_1,6,13
+333,right,Control,rh_Control,rh_7Networks_RH_Cont_Par_2,6,13
+334,right,Control,rh_Control,rh_7Networks_RH_Cont_Par_3,6,13
+335,right,Control,rh_Control,rh_7Networks_RH_Cont_Par_4,6,13
+336,right,Control,rh_Control,rh_7Networks_RH_Cont_Par_5,6,13
+337,right,Control,rh_Control,rh_7Networks_RH_Cont_Par_6,6,13
+338,right,Control,rh_Control,rh_7Networks_RH_Cont_Temp_1,6,13
+339,right,Control,rh_Control,rh_7Networks_RH_Cont_Temp_2,6,13
+340,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCv_1,6,13
+341,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_1,6,13
+342,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_2,6,13
+343,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_3,6,13
+344,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_4,6,13
+345,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_5,6,13
+346,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_6,6,13
+347,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_7,6,13
+348,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_8,6,13
+349,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_9,6,13
+350,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_10,6,13
+351,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_11,6,13
+352,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_12,6,13
+353,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_13,6,13
+354,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_14,6,13
+355,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCl_15,6,13
+356,right,Control,rh_Control,rh_7Networks_RH_Cont_pCun_1,6,13
+357,right,Control,rh_Control,rh_7Networks_RH_Cont_pCun_2,6,13
+358,right,Default,rh_Default,rh_7Networks_RH_Cont_Cing_1,6,13
+359,right,Control,rh_Control,rh_7Networks_RH_Cont_Cing_2,6,13
+360,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCmp_1,6,13
+361,right,Control,rh_Control,rh_7Networks_RH_Cont_PFCmp_2,6,13
+362,right,Default,rh_Default,rh_7Networks_RH_Default_Par_1,7,14
+363,right,Default,rh_Default,rh_7Networks_RH_Default_Par_2,7,14
+364,right,Default,rh_Default,rh_7Networks_RH_Default_Par_3,7,14
+365,right,Default,rh_Default,rh_7Networks_RH_Default_Par_4,7,14
+366,right,Default,rh_Default,rh_7Networks_RH_Default_Par_5,7,14
+367,right,Default,rh_Default,rh_7Networks_RH_Default_Temp_1,7,14
+368,right,Default,rh_Default,rh_7Networks_RH_Default_Temp_2,7,14
+369,right,Default,rh_Default,rh_7Networks_RH_Default_Temp_3,7,14
+370,right,Default,rh_Default,rh_7Networks_RH_Default_Temp_4,7,14
+371,right,Default,rh_Default,rh_7Networks_RH_Default_Temp_5,7,14
+372,right,Default,rh_Default,rh_7Networks_RH_Default_Temp_6,7,14
+373,right,Default,rh_Default,rh_7Networks_RH_Default_Temp_7,7,14
+374,right,Default,rh_Default,rh_7Networks_RH_Default_Temp_8,7,14
+375,right,Default,rh_Default,rh_7Networks_RH_Default_PFCv_1,7,14
+376,right,Default,rh_Default,rh_7Networks_RH_Default_PFCv_2,7,14
+377,right,Default,rh_Default,rh_7Networks_RH_Default_PFCv_3,7,14
+378,right,Default,rh_Default,rh_7Networks_RH_Default_PFCv_4,7,14
+379,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_1,7,14
+380,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_2,7,14
+381,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_3,7,14
+382,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_4,7,14
+383,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_5,7,14
+384,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_6,7,14
+385,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_7,7,14
+386,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_8,7,14
+387,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_9,7,14
+388,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_10,7,14
+389,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_11,7,14
+390,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_12,7,14
+391,right,Default,rh_Default,rh_7Networks_RH_Default_PFCdPFCm_13,7,14
+392,right,Default,rh_Default,rh_7Networks_RH_Default_pCunPCC_1,7,14
+393,right,Default,rh_Default,rh_7Networks_RH_Default_pCunPCC_2,7,14
+394,right,Default,rh_Default,rh_7Networks_RH_Default_pCunPCC_3,7,14
+395,right,Default,rh_Default,rh_7Networks_RH_Default_pCunPCC_4,7,14
+396,right,Default,rh_Default,rh_7Networks_RH_Default_pCunPCC_5,7,14
+397,right,Default,rh_Default,rh_7Networks_RH_Default_pCunPCC_6,7,14
+398,right,Default,rh_Default,rh_7Networks_RH_Default_pCunPCC_7,7,14
+399,right,Default,rh_Default,rh_7Networks_RH_Default_pCunPCC_8,7,14
+400,right,Default,rh_Default,rh_7Networks_RH_Default_pCunPCC_9,7,14
