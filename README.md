@@ -27,8 +27,8 @@ The framework consists of two major components:
 
 ## Code
 The code folder contains main code used to run the analyses . If you use this code, don't forget to change the path variable
-
-
+-**N0_make_network:** Computes the individual-level TA score profile and TA network. 
+This module calls the function `topographic_alignment.m`.
 
 
 
