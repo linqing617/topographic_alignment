@@ -31,7 +31,7 @@ The code folder contains main code used to run the analyses . If you use this co
 This module calls the function `topographic_alignment.m`.
 -**N1_term_freq:** Perform term frequency analysis to investigate the relationship 
   between positive TA scores, negative TA scores, and cognitive functional 
-  representations.
+  representations.This module calls the function `extractTerms.m` and `word Frequeny.m`.
 -**N2_sa:** Calculate the gradient of the topographic alignment network (TAN) and 
 compare it with the sensorimotor–association axis（S-A rank） to investigate the hierarchical organization of TAN.
 -**N3_gene:** Investigate the shared biological basis underlying the topographic alignment network (TAN) and resting-state functional connectivity (RSFC) by performing PLS analysis and gene ontology (GO) enrichment analysis.
