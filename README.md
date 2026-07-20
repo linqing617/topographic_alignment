@@ -27,8 +27,17 @@ The framework consists of two major components:
 
 ## Code
 The code folder contains main code used to run the analyses . If you use this code, don't forget to change the path variable
--**N0_make_network:** Computes the individual-level TA score profile and TA network. 
+-**N0_make_network:** Compute the individual-level TA score profile and TA network. 
 This module calls the function `topographic_alignment.m`.
+-**N1_term_freq:** Perform term frequency analysis to investigate the relationship 
+  between positive TA scores, negative TA scores, and cognitive functional 
+  representations.
+-**N2_sa:** Calculate the gradient of the topographic alignment network (TAN) and 
+compare it with the sensorimotor–association axis（S-A rank） to investigate the hierarchical organization of TAN.
+-**N3_gene:** Investigate the shared biological basis underlying the topographic alignment network (TAN) and resting-state functional connectivity (RSFC) by performing PLS analysis and gene ontology (GO) enrichment analysis.
+-**N4_SFC:** Investigate the contribution of the topographic alignment tetwork (TAN) to enhanced structure–function coupling by applying a structural–functional coupling model.
+
+
 
 
 
