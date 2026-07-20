@@ -24,3 +24,15 @@ The framework consists of two major components:
    We construct a network based on the inter-regional similarity of TA score 
    profiles, capturing large-scale organizational principles of structure–function 
    alignment across the human cortex.
+
+## Code
+The code folder contains main code used to run the analyses . If you use this code, don't forget to change the path variable
+
+
+
+
+
+
+
+
+
