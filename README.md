@@ -1,6 +1,5 @@
-# topographic_alignment
-Code for Brain Hierarchy as Coordinated Regional Structure-Function Topographic Alignment.
-
+#  Brain Hierarchy as Coordinated Regional Structure-Function Topographic Alignment.
+This repository contains code and data created in support of my project "Brain hierarchy as coordinated regional structure-function topographic alignment".
 
 ## Overview
 
