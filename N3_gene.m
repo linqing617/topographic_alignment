@@ -27,7 +27,7 @@
 % REQUIREMENTS:
 %   - Statistics and Machine Learning Toolbox (plsregress, corr, randsample)
 %   - mafdr (Bioinformatics Toolbox)
-%   - BrainSpace (for gradient computation)
+%   - BrainSpace (for gradient computation,https://github.com/MICA-MNI/BrainSpace)
 %   - Precomputed spin permutation file (1000Null_Schaefer400.csv)
 %
 % INPUT:
@@ -59,7 +59,7 @@ left_hemi = AHBH_expression(1:200,:);
 
 % Load TAN and compute group-average network
 load('Schaefer_400_TAN.mat')
-TAN = nanmean(s400_TAN,3);
+TAN = nanmean(s400_TAN,3); % Schefer400_TAN.csv
 
 % Compute principal gradient of TAN
 G = GradientMaps('kernel','cs','approach','dm');
@@ -93,8 +93,8 @@ Rsquared1_2 = temp(dim);
 % spin permutation
 spin=readmatrix('1000Null_Schaefer400.csv');
 spin=spin(1:200,:);
-
-for i=1:1000
+nperm=1000;
+for i=1:nperm
 
     [XLr,YLr,XSr,YSr, BETAr, PCTVARr, MSEr, statsr]=plsregress(X,Y(spin(:,i)),dim);
     temp=cumsum(100*PCTVARr(2,1:dim));
@@ -109,14 +109,14 @@ end
 
 % calculate p
 
-p1 = (1 + length(find(abs(Rsq1 - mean(Rsq1)) > abs(Rsquared1 - mean(Rsq1))))) / 1001;
-p2 = (1 + length(find(abs(Rsq2 - mean(Rsq2)) > abs(Rsquared2 - mean(Rsq2))))) / 1001;
-p1_2 = (1 + length(find(abs(Rsq1_2 - mean(Rsq1_2)) > abs(Rsquared1_2 - mean(Rsq1_2))))) / 1001;
+p1 = (1 + length(find(abs(Rsq1 - mean(Rsq1)) > abs(Rsquared1 - mean(Rsq1))))) / (n_perm + 1);
+p2 = (1 + length(find(abs(Rsq2 - mean(Rsq2)) > abs(Rsquared2 - mean(Rsq2))))) / (n_perm + 1);
+p1_2 = (1 + length(find(abs(Rsq1_2 - mean(Rsq1_2)) > abs(Rsquared1_2 - mean(Rsq1_2))))) / (n_perm + 1);
 
-corr_p1 = (1 + length(find(abs(R_spin(:,1) - mean(R_spin(:,1))) > abs(R0(1) - mean(R_spin(:,1)))))) / 1001;
-corr_sp1 = (1 + length(find(abs(Rs_spin(:,1) - mean(Rs_spin(:,1))) > abs(Rs0(1) - mean(Rs_spin(:,1)))))) / 1001;
-corr_p2 = (1 + length(find(abs(R_spin(:,2) - mean(R_spin(:,2))) > abs(R0(2) - mean(R_spin(:,2)))))) / 1001;
-corr_sp2 = (1 + length(find(abs(Rs_spin(:,2) - mean(Rs_spin(:,2))) > abs(Rs0(2) - mean(Rs_spin(:,2)))))) / 1001;
+corr_p1 = (1 + length(find(abs(R_spin(:,1) - mean(R_spin(:,1))) > abs(R0(1) - mean(R_spin(:,1)))))) / (n_perm + 1);
+corr_sp1 = (1 + length(find(abs(Rs_spin(:,1) - mean(Rs_spin(:,1))) > abs(Rs0(1) - mean(Rs_spin(:,1)))))) / (n_perm + 1);
+corr_p2 = (1 + length(find(abs(R_spin(:,2) - mean(R_spin(:,2))) > abs(R0(2) - mean(R_spin(:,2)))))) / (n_perm + 1);
+corr_sp2 = (1 + length(find(abs(Rs_spin(:,2) - mean(Rs_spin(:,2))) > abs(Rs0(2) - mean(Rs_spin(:,2)))))) / (n_perm + 1);
 
 
 % results
@@ -151,6 +151,7 @@ PLSlids = genename(x1);
 
 bootnum = 1000;
 PLS1weights = [];
+
 rng(1);
 
 for i = 1:bootnum
