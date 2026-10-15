@@ -10,12 +10,8 @@ function [top_terms, last_terms] = ...
 %   k       : number of top / last elements to extract
 %
 % OUTPUT
-%   top_terms    : numRows × k cell array, Top-k labels
-%   last_terms   : numRows × k cell array, Last-k labels
-%   top_indices  : numRows × k matrix, indices of Top-k values
-%   last_indices : numRows × k matrix, indices of Last-k values
-%   top_values   : numRows × k matrix, Top-k values
-%   last_values  : numRows × k matrix, Last-k values
+%   top_terms    : numRows × k cell array 
+%   last_terms   : numRows × k cell array
 % ---------------------------------------------------------
 
 [numRows, numCols] = size(A);
