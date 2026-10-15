@@ -3,10 +3,7 @@ function freq_table = wordFrequency(words)
     % pooled term list. This frequency will later be normalized to the
     % maximum frequency within the network to weight terms in the word
     % cloud visualization (i.e., freq_normalized = Count / max(Count)).
-    %
-    % words: cell array of char/string, may contain duplicates
-    words = strrep(words, '''', '');
-    words = strtrim(words);
+    
     words = words(~cellfun(@isempty, words));  % drop empty strings, if any
 
     [uwords, ~, ic] = unique(words);
