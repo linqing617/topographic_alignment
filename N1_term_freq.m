@@ -22,7 +22,7 @@
 % INPUT:
 %   - first_order_net.mat
 %   - Term.csv
-%   - schaefer400_7network_name.csv
+%   - Schaefer400_7network_name.csv
 %
 % OUTPUT:
 %   - Network-level raw term lists
@@ -35,6 +35,7 @@ clear; clc
 %% ============ Load Data ============
 load('s400_first_order_net.mat')            % first-order TA matrix
 first_mean = nanmean(first_order_net, 3); % Schaefer400_TAscore.csv
+%writetable(first_mean,'chaefer400_TAscore.csv');
 
 labels = readtable('Term.csv');              % 539 term names
 labels = labels.Term;
