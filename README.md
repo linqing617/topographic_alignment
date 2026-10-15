@@ -37,7 +37,7 @@ compare it with the sensorimotor–association axis（S-A rank） to investigate
 - **N3_gene:** Investigate the shared biological basis underlying the topographic alignment network (TAN) and resting-state functional connectivity (RSFC) by performing PLS analysis and gene ontology (GO) enrichment analysis.
 - **N4_SFC:** Investigate the contribution of the topographic alignment tetwork (TAN) to enhanced structure–function coupling by applying a structural–functional coupling model.
 
-- **brainplot.ipynb:** Generate cortical surface visualizations of region-wise data on the fsLR surface.
+- **brainplot.py:** Generate cortical surface visualizations of region-wise data on the fsLR surface.
 - **spin_label.py:** Generate parcel labels for spatial permutations using the spin test while preserving cortical spatial autocorrelation.
 
 
