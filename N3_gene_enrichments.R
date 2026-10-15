@@ -4,8 +4,9 @@
 # =============================================================================
 #
 # PURPOSE:
-# Perform GO Biological Process (BP) enrichment analyses for positive and
-# negative TAN-associated gene sets separately.
+# Perform GO Biological Process (BP) enrichment analyses for overlapping
+# genes between TAN- and RSN-associated gene sets, separately for positive
+# and negative associations.
 #
 # INPUT:
 #   - Positive genes: s400_TAN_RSN_posoverlap(z=5).csv
