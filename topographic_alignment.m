@@ -24,13 +24,6 @@ function sub_dis = topographic_alignment(sub_dat, term_all, roi, t1_mask_ind)
         sub_roi   = sub_dat(t1_mask_ind == roi(m));
         neuro_roi = term_all(t1_mask_ind == roi(m), :);
 
-        % Only keep voxels where the term map is non-zero (i.e., in the
-        % term map's valid coverage), to avoid biasing the similarity
-        % with structurally-zero background voxels.
-        voxel = neuro_roi(:, 1) ~= 0;
-        sub_roi   = sub_roi(voxel);
-        neuro_roi = neuro_roi(voxel, :);
-
         roi_dis(:, m) = 1 - pdist2(zscore(sub_roi)', zscore(neuro_roi)', 'cosine')';
     end
 
