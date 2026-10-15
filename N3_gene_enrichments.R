@@ -46,7 +46,7 @@ library(ggplot2)
 # 2. Configure paths and parameters -------------------------------------------
 
 # Run this script from the repository root directory.
-input_dir <- file.path("data", "gene")
+input_dir <- file.path("data")
 output_dir <- file.path("results", "gene_enrichment")
 
 positive_file <- file.path(
