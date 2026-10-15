@@ -61,7 +61,7 @@ if ~exist(output_dir, 'dir'); mkdir(output_dir); end
 
 % -------------------------------------------------------------------------
 
-addpath(project_dir);   % make sure make_net.m is on the path
+addpath(project_dir);   % make sure function topographic_alignment.m is on the path
 
 %% -------------------- Step 1: Load ROI parcellation ---------------------
 t1_mask     = reshape(y_ReadAll(parcellation_file), [], 1);
