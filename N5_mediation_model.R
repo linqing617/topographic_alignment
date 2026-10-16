@@ -22,7 +22,7 @@ for (p in packages) {
   library(p, character.only = TRUE)
 }
 
-# 2. Load the LMCI subgroup data.
+# 2. Load  data.
 
 mat_data <- readMat("/Users/linqing/Desktop/Projects/2024 structure_FC/RMN network/Representation mapping network/6.Disease/DK68/mediation/AD_data.mat") # replace your path
 
