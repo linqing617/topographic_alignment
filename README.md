@@ -36,7 +36,7 @@ This module calls the function `topographic_alignment.m`.
 compare it with the sensorimotor–association axis（S-A rank） to investigate the hierarchical organization of TAN.
 - **N3_gene:** Investigate the shared biological basis underlying the topographic alignment network (TAN) and resting-state functional connectivity (RSFC) by performing PLS analysis and gene ontology (GO) enrichment analysis.
 - **N4_SFC:** Investigate the contribution of the topographic alignment tetwork (TAN) to enhanced structure–function coupling by applying a structural–functional coupling model.
-
+- **N5_GLM,N5_lightgbm,N5_mediation_model**: Perform case–control analyses using the ADNI dataset, develop LightGBM models to predict the conversion from MCI to AD, and conduct mediation analyses to investigate the relationships among amyloid-beta (Aβ), topographic alignment (TA), and disease status.
 - **brainplot.py:** Generate cortical surface visualizations of region-wise data on the fsLR surface.
 - **spin_label.py:** Generate parcel labels for spatial permutations using the spin test while preserving cortical spatial autocorrelation.
 
