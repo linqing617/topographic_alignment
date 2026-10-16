@@ -3,7 +3,7 @@ This repository contains code and data created in support of my project "Brain h
 
 ## Overview
 
-By leveraging four independent structural MRI cohorts spanning the lifespan 
+By leveraging four independent structural MRI cohorts spanning the adult lifespan 
 (HCP-YA, UK Biobank, ZIB,and ADNI; combined N > 39,000, ages ages 22–95 yr years), 
 we developed a **Topographic Alignment (TA) framework** to characterize the 
 relationship between regional gray matter organization and cognitive functional 
